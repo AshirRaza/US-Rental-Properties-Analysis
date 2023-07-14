@@ -1,2 +1,3 @@
 # US-Rental-Properties-Analysis
 Analyzed dataset of property types across US cities, applying statistical measures using Python pandas. Cleaned data and generated valuable insights for the real estate industry.
+This project involved analyzing a dataset that included information about different property types across various cities in the USA. The dataset was cleaned and analyzed using Python programming and the pandas library to generate valuable insights. By applying statistical measures, the project aimed to uncover patterns and trends within the data. The findings provided a deeper understanding of the housing market and its distribution across different cities, offering potential insights for strategic decision-making in the real estate industry.
